@@ -7,7 +7,7 @@ Originally a SaitamaRobot fork, AstrakoBot evolved further and was built to be m
 
 Can be found on telegram as [RozakulHalimRobot](https://t.me/RozakulHalimRobot).
 
-The Support group can be reached out to at [RozakulHalimRobotSupport](https://t.me/Haliimmmmm
+The Support group can be reached out to at [RozakulHalimRobotSupport](https://t.me/Haliimmmmm)
 
 where you can ask for help about [Rozakuls](https://t.me/MRojeck_Lim), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
