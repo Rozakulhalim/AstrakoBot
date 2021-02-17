@@ -1,5 +1,5 @@
-![AstrakoBot](https://i.imgur.com/1oah5E2.jpg)
-# AstrakoBot 
+![RozakulHalimRobot](https://telegra.ph/file/2340257e13511c20d0cda.jpg)
+# RozakulHalimRobot 
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
