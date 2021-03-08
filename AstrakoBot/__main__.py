@@ -100,7 +100,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-ROZAKULHALIMROBOT_IMG = "https://telegra.ph/file/2340257e13511c20d0cda.jpg"
+ASTRAKOBOT_IMG = "https://telegra.ph/file/2340257e13511c20d0cda.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 AstrakoBot is hosted on its own server and doesn't require any donations as of now but \
@@ -223,7 +223,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="Add Me🤖 to your group",
+                                text="Add Me 🤖 to your group",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
@@ -231,14 +231,14 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Support Group",
-                                url=f"https://t.me/Haliimmmmm",
+                                text="My Owners",
+                                url=f"https://t.me/MRojeck_Lim",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Getting started guide",
-                                url="https://t.me/OnePunchUpdates/29",
+                                text="❄️ Help And Command",
+                                url=f"t.me/{dispatcher.bot.username}?start=help",
                             )
                         ],
                         [
