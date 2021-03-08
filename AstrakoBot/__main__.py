@@ -243,8 +243,8 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Source code",
-                                url="https://github.com/Rozakulhalim/RozakulHalimRobot",
+                                text="My Channel",
+                                url="https://t.me/Cloudhaliims7",
                             )
                         ],
                     ]
